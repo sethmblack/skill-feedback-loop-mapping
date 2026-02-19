@@ -4,7 +4,7 @@ description: Identify and map the reinforcing and balancing feedback loops that 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3991
+  version: 1.0.3992
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - feedback-loop-mapping
